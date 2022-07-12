@@ -40,17 +40,17 @@
 ## Follow me 
 
 <p align="left">
-  <a href="https://btechtraders.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
-  <a href="mailto:jibinvictorjohn191@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://twitter.com/jibinvictorjohn"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.facebook.com/jibinvictorjohn"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
-  <a href="https://www.instagram.com/hi_functioning_sociopath"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://www.reddit.com/user/hi_functioning_socio"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
-  <a href="https://in.pinterest.com/jibinvictorjohn"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest"/></a>
+  <a href="https://btechtraders.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="50" height="50"/></a>
+  <a href="mailto:jibinvictorjohn191@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="50" height="50"/></a>
+  <a href="https://twitter.com/jibinvictorjohn"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"  width="50" height="50"/></a>
+  <a href="https://www.facebook.com/jibinvictorjohn"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"  width="50" height="50"/></a>
+  <a href="https://www.instagram.com/hi_functioning_sociopath"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"  width="50" height="50"/></a>
+  <a href="https://www.reddit.com/user/hi_functioning_socio"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"  width="50" height="50"/></a>
+  <a href="https://in.pinterest.com/jibinvictorjohn"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest"  width="50" height="50"/></a>
   <!--
   <a href="https://medium.com/@matyo91"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
   -->
-  <a href="https://open.spotify.com/user/3123hs4dn7qcb3w7mdqfh2wvunje"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
-  <a href="https://stackoverflow.com/users/12313321/hi-fuctioning-sociopath"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
+  <a href="https://open.spotify.com/user/3123hs4dn7qcb3w7mdqfh2wvunje"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"  width="50" height="50"/></a>
+  <a href="https://stackoverflow.com/users/12313321/hi-fuctioning-sociopath"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"  width="50" height="50"/></a>
 </p>
 
