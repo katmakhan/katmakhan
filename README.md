@@ -53,7 +53,7 @@
 </a>   
 
 <a href="https://github.com/katmakhan/gcloud-course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=gcloud-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=gcloud-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>   
 
 ## Follow me 
