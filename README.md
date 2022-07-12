@@ -11,13 +11,21 @@ katmakhan/katmakhan is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katmakhan&layout=compact&theme=dark&hide_border=true)
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=katmakhan&show_icons=true&hide_border=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=katmakhan)](https://github.com/katmakhan/github-profile-trophy)
+<!--
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=katmakhan&show_icons=true&hide_border=true&theme=dark)
+-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katmakhan&layout=compact&theme=dark&hide_border=true)
+
 <p align = "left">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=katmakhan&theme=dark&hide_border=true" width = 400>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=katmakhan)](https://github.com/katmakhan/github-profile-trophy)
+
+## 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/katmakhan?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 ## Follow me 
 
