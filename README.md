@@ -77,3 +77,6 @@
 ## My Contribution Graph
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=katmakhan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+## Now Playing
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/3123hs4dn7qcb3w7mdqfh2wvunje)
