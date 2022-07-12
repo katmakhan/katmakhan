@@ -32,24 +32,24 @@
 ## Courses in the REPO
 
 <a href="https://github.com/katmakhan/python-course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=python-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=python-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>
 
 
 <a href="https://github.com/katmakhan/firebase-course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=firebase-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=firebase-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>   
 
 <a href="https://github.com/katmakhan/android-course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=android-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"width="300"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=android-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"width="400"  />
 </a>   
 
 <a href="https://github.com/katmakhan/flutter-course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=flutter-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=flutter-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>   
 
 <a href="https://github.com/katmakhan/mongodb-course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=mongodb-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=mongodb-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>   
 
 <a href="https://github.com/katmakhan/gcloud-course">
