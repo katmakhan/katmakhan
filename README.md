@@ -37,7 +37,7 @@
 
 ## Follow me 
 
-<p align="center">
+<p align="left">
   <a href="https://btechtraders.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
   <a href="mailto:jibinvictorjohn191@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://twitter.com/jibinvictorjohn"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
