@@ -1,31 +1,39 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
-
+## About Myself
 - 👋 Hi, I’m @katmakhan also Known as Hi_Functioning_Sociopath
 - 👀 I’m interested in Learning TECH Things 
 - 🌱 I’m currently learning FLUTTER
 - 💞️ I’m looking to collaborate on all open projects for newbie developers
-- 📫 How to reach me twitter:@jibinvictorjohn
-
-<!---
-katmakhan/katmakhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
 <!--
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=katmakhan&show_icons=true&hide_border=true&theme=dark)
 -->
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katmakhan&layout=compact&theme=dark&hide_border=true)
+-->
 
-<p align = "left">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=katmakhan&theme=dark&hide_border=true" width = 400>
-</p>
+## Github Statistics
+<a href="https://github.com/katmakhan/katmakhan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katmakhan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
+   <img src = "https://github-readme-streak-stats.herokuapp.com?user=katmakhan&theme=dark&hide_border=true" width = 300>
+</a>
 
+## Github Torphies
 [![trophy](https://github-profile-trophy.vercel.app/?username=katmakhan)](https://github.com/katmakhan/github-profile-trophy)
 
-## 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+## 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/katmakhan?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+## Courses in the REPO
+
+<a href="https://github.com/katmakhan/python-course">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=python-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/katmakhan/firebase-course">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=firebase-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
 
 ## Follow me 
 
