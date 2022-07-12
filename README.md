@@ -1,10 +1,9 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
 
 ## About Myself
-- 👋 Hi, I’m @katmakhan also Known as Hi_Functioning_Sociopath
-- 👀 I’m interested in Learning TECH Things 
-- 🌱 I’m currently learning FLUTTER
-- 💞️ I’m looking to collaborate on all open projects for newbie developers
+- 👋 Hi, I’m [JIbin Victor John](https://www.instagram.com/hi_functioning_sociopath/)
+- 👀 I’m interested in making everyone literate about programming
+- 🌱 I’m currently trying to develop open source projects in all programming languages
 
 <!--
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=katmakhan&show_icons=true&hide_border=true&theme=dark)
@@ -22,8 +21,10 @@
 ## Github Torphies
 [![trophy](https://github-profile-trophy.vercel.app/?username=katmakhan)](https://github.com/katmakhan/github-profile-trophy)
 
+<!--
 ## 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/katmakhan?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+-->
 
 ## Tools I Use
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="50" height="50"/> 
