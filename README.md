@@ -1,7 +1,7 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
 
 ## Who Am I? Not Jackie Chan, Thats who
-- 👋 Hi, I’m [JIbin Victor John](https://www.instagram.com/hi_functioning_sociopath/) an web/app developer
+- 👋 Hi, I’m [JIbin Victor John](https://www.instagram.com/hi_functioning_sociopath/) an app developer
 - 👣 From Palakkad, Kerala, India
 - 🗣️ Trying to make everyone literate about programming
 - 🤹‍♂️ Hope to make this world a better place for tomorrow
