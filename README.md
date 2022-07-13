@@ -88,4 +88,4 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3123hs4dn7qcb3w7mdqfh2wvunje&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=3123hs4dn7qcb3w7mdqfh2wvunje&redirect=true)
 -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3123hs4dn7qcb3w7mdqfh2wvunje&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=3123hs4dn7qcb3w7mdqfh2wvunje&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3123hs4dn7qcb3w7mdqfh2wvunje&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=3123hs4dn7qcb3w7mdqfh2wvunje&redirect=true)
