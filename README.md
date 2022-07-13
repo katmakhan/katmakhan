@@ -1,9 +1,10 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
 
 ## About Myself
-- 👋 Hi, I’m [JIbin Victor John](https://www.instagram.com/hi_functioning_sociopath/)
-- 👀 I’m interested in making everyone literate about programming
-- 🌱 I’m currently trying to develop open source projects in all programming languages
+- 👋 Hi, I’m [JIbin Victor John](https://www.instagram.com/hi_functioning_sociopath/) a web/app developer
+- 👀 Trying to make everyone literate about programming
+- 🌱 Hope to make this world a better place for tomorrow
+- 🧛 Might turn out to be a High Functioning Sociopath
 
 <!--
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=katmakhan&show_icons=true&hide_border=true&theme=dark)
@@ -18,7 +19,7 @@
    <img src = "https://github-readme-streak-stats.herokuapp.com?user=katmakhan&theme=dark&hide_border=true" width = 400>
 </p>
 
-## Github Torphies
+## Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=katmakhan)](https://github.com/katmakhan/github-profile-trophy)
 
 <!--
@@ -30,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="50" height="50"/> 
 &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="50" height="50"/>&nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="50" height="50"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku" width="50" height="50"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="Wordress" width="50" height="50"/>
 
-## Courses in the REPO
+## Free courses available in the repositories
 
 <a href="https://github.com/katmakhan/python-course">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=python-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
