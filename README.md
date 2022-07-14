@@ -1,11 +1,24 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
 
 ## Who Am I? Not Jackie Chan, Thats who
-- 👋 Hi, I’m [JIbin Victor John](https://www.instagram.com/hi_functioning_sociopath/) an app developer
-- 👣 From Palakkad, Kerala, India
-- 🗣️ Trying to make everyone literate about programming
-- 🤹‍♂️ Hope to make this world a better place for tomorrow
-- 🧛 Might turn out to be a High Functioning Sociopath
+<table>
+<tr>
+<td>
+👋 Hi, I’m <a href=https://www.instagram.com/hi_functioning_sociopath/>JIbin Victor John</a> an app developer
+</br>
+👣 From Palakkad, Kerala, India
+</br>
+🗣️ Trying to make everyone literate about programming
+</br>
+🤹‍♂️ Hope to make this world a better place for tomorrow
+</br>
+🧛 Might turn out to be a High Functioning Sociopath
+</br>
+</td>
+<td>
+<img src="https://user-images.githubusercontent.com/46966575/178978964-e47403e1-e961-4355-a1f0-549189dcd6a9.gif" width=300/>
+</td>
+</table>
 
 <!--
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=katmakhan&show_icons=true&hide_border=true&theme=dark)
