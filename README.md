@@ -5,15 +5,15 @@
 <tr>
 <td>
 👋 Hi, I’m <a href=https://www.instagram.com/hi_functioning_sociopath/>JIbin Victor John</a> an app developer
-</br>
+</br></br>
 👣 From Palakkad, Kerala, India
-</br>
+</br></br>
 🗣️ Trying to make everyone literate about programming
-</br>
+</br></br>
 🤹‍♂️ Hope to make this world a better place for tomorrow
-</br>
+</br></br>
 🧛 Might turn out to be a High Functioning Sociopath
-</br>
+</br></br>
 </td>
 <td>
 <img src="https://user-images.githubusercontent.com/46966575/178978964-e47403e1-e961-4355-a1f0-549189dcd6a9.gif" width=300/>
