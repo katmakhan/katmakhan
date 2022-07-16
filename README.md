@@ -89,7 +89,7 @@
   <a href="https://medium.com/@matyo91"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
   -->
   <a href="https://open.spotify.com/user/3123hs4dn7qcb3w7mdqfh2wvunje"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"  width="50" height="50"/></a>
-  <a href="https://stackoverflow.com/users/12313321/hi-fuctioning-sociopath"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"  width="50" height="50"/></a>
+  <a href="https://stackoverflow.com/users/12313321"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"  width="50" height="50"/></a>
   <a href="https://btechtraders.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="50" height="50"/></a>
 </p>
 
