@@ -6,7 +6,8 @@
 - 🗣️ Trying to make everyone literate about programming
 - 🤹‍♂️ Hope to make this world a better place for tomorrow
 - 🧛 Might turn out to be a High Functioning Sociopath
-- 
+
+
 <!--
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=katmakhan&show_icons=true&hide_border=true&theme=dark)
 -->
