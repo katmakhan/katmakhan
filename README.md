@@ -4,7 +4,7 @@
 - 👋 Hi, I’m <a href=https://www.instagram.com/hi_functioning_sociopath/>JIbin Victor John</a> an app developer
 - 👣 From Palakkad, Kerala, India
 - 🗣️ Trying to make everyone literate about programming
-- 🤹‍♂️ Hope to make this world a better place for tomorrow
+- 🤹‍♂️ Hoping to make this world a better place for tomorrow
 - 🧛 Might turn out to be a High Functioning Sociopath
 
 
