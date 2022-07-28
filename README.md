@@ -1,4 +1,4 @@
-![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=katmakhan&color=green)
 
 ## Who Am I? Not Jackie Chan, Thats who
 - 👋 Hi, I’m <a href=https://www.instagram.com/hi_functioning_sociopath/>JIbin Victor John</a> an app developer
