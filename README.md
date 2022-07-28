@@ -22,7 +22,7 @@
 </p>
 
 ## Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=katmakhan)](https://github.com/katmakhan/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=katmakhan&column=-1)](https://github.com/katmakhan/github-profile-trophy)
 
 <!--
 ## 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
