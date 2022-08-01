@@ -1,4 +1,6 @@
-## Who Am I? Not Jackie Chan, Thats who ![Profile Views](https://komarev.com/ghpvc/?username=katmakhan&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=katmakhan&color=green)
+
+## Who Am I? Not Jackie Chan, Thats who 
 - 👋 Hi, I’m <a href=https://www.instagram.com/hi_functioning_sociopath/>JIbin Victor John</a> an app developer
 - 👣 From Palakkad, Kerala, India
 - 🗣️ Trying to make everyone literate about programming
