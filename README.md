@@ -1,3 +1,5 @@
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=katmakhan&color=green)
 
 ## Who Am I? Not Jackie Chan, Thats who
@@ -6,7 +8,7 @@
 - 🗣️ Trying to make everyone literate about programming
 - 🤹‍♂️ Hoping to make this world a better place for tomorrow
 - 🧛 Might turn out to be a High Functioning Sociopath
-
+<p align="left"> <a href="https://twitter.com/jibinvictorjohn" target="blank"><img src="https://img.shields.io/twitter/follow/jibinvictorjohn?logo=twitter&style=for-the-badge" alt="jibinvictorjohn" /></a></p>
 
 <!--
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=katmakhan&show_icons=true&hide_border=true&theme=dark)
