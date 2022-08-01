@@ -1,14 +1,12 @@
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=katmakhan&color=green)
-
-## Who Am I? Not Jackie Chan, Thats who
+## Who Am I? Not Jackie Chan, Thats who ![Profile Views](https://komarev.com/ghpvc/?username=katmakhan&color=green)
 - 👋 Hi, I’m <a href=https://www.instagram.com/hi_functioning_sociopath/>JIbin Victor John</a> an app developer
 - 👣 From Palakkad, Kerala, India
 - 🗣️ Trying to make everyone literate about programming
 - 🤹‍♂️ Hoping to make this world a better place for tomorrow
 - 🧛 Might turn out to be a High Functioning Sociopath
+
 <p align="left"> <a href="https://twitter.com/jibinvictorjohn" target="blank"><img src="https://img.shields.io/twitter/follow/jibinvictorjohn?logo=twitter&style=for-the-badge" alt="jibinvictorjohn" /></a></p>
+
 
 <!--
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=katmakhan&show_icons=true&hide_border=true&theme=dark)
@@ -32,9 +30,28 @@
 -->
 
 ## Tools I Use Most
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="40" height="40"/> 
-&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40"/> 
-&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40"/> &nbsp;<img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github" width="40" height="40"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40" height="40"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="Wordress" width="40" height="40"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="Chrome" width="40" height="40"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" alt="File Zila" width="40" height="40"/>&nbsp;<img  src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" alt="Putty" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40"/> &nbsp;
+<img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github" width="40" height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40" height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="Wordress" width="40" height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="Chrome" width="40" height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" alt="File Zila" width="40" height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" alt="Putty" width="40" height="40"/>&nbsp;
 
 ## Free courses available in the repositories
 
@@ -66,12 +83,12 @@
 ## Follow me @
 
 <p align="left">
-  <a href="mailto:jibinvictorjohn191@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="50" height="50"/></a>
-  <a href="https://twitter.com/jibinvictorjohn"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"  width="50" height="50"/></a>
-  <a href="https://www.facebook.com/jibinvictorjohn"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"  width="50" height="50"/></a>
-  <a href="https://www.instagram.com/hi_functioning_sociopath"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"  width="50" height="50"/></a>
-  <a href="https://www.reddit.com/user/hi_functioning_socio"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"  width="50" height="50"/></a>
-  <a href="https://in.pinterest.com/jibinvictorjohn"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest"  width="50" height="50"/></a>
+  <a href="mailto:jibinvictorjohn191@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="50" height="50"/></a>
+  <a href="https://twitter.com/jibinvictorjohn"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" width="50" height="50"/></a>
+  <a href="https://www.facebook.com/jibinvictorjohn"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook" width="50" height="50"/></a>
+  <a href="https://www.instagram.com/hi_functioning_sociopath"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="50" height="50"/></a>
+  <a href="https://www.reddit.com/user/hi_functioning_socio"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit" width="50" height="50"/></a>
+  <a href="https://in.pinterest.com/jibinvictorjohn"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest" width="50" height="50"/></a>
   <!--
   <a href="https://medium.com/@matyo91"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
   -->
