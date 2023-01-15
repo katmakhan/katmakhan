@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=katmakhan&color=green)
-
-## Who Am I? Not Jackie Chan, Thats who 
-- 👋 Hi, I’m <a href=https://www.instagram.com/hi_functioning_sociopath/>JIbin Victor John</a> an app developer
+## Who Am I? Not Jackie Chan, Thats who
+- 💫 Some might call me jack of all trades
+- 👋 I’m <a href=https://www.instagram.com/hi_functioning_sociopath/>JIbin Victor John</a> an app developer
 - 👣 From Palakkad, Kerala, India
 - 🗣️ Trying to make everyone literate about programming
 - 🤹‍♂️ Hoping to make this world a better place for tomorrow
@@ -81,6 +81,22 @@
 <a href="https://github.com/katmakhan/heroku-course">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=heroku-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>
+
+## Forked Projects
+<a href="https://github.com/katmakhan/odyssey-theme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=odyssey-theme&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+</a>
+
+<a href="https://github.com/katmakhan/docker-ubuntu-nomachine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=docker-ubuntu-nomachine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+</a>
+
+<a href="https://github.com/katmakhan/options_and_python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=options_and_pythone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+</a>
+
+
+
 
 ## Follow me @
 
