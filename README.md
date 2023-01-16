@@ -83,15 +83,15 @@
 </a>
 
 ## Forked Projects
-<!-- <a href="https://github.com/katmakhan/docker-ubuntu-nomachine">
+<a href="https://github.com/katmakhan/docker-ubuntu-nomachine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=docker-ubuntu-nomachine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
-</a> -->
+</a>
 <a href="https://github.com/katmakhan/odyssey-theme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=odyssey-theme&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>
-<!-- <a href="https://github.com/katmakhan/options_and_python">
+<a href="https://github.com/katmakhan/options_and_python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=options_and_python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
-</a> -->
+</a>
 
 
 
