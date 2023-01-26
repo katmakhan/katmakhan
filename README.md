@@ -7,7 +7,7 @@
 - 🤹‍♂️ Hoping to make this world a better place for tomorrow
 - 🧛 Might turn out to be a High Functioning Sociopath
 
-<p align="left"> <a href="https://twitter.com/jibinvictorjohn" target="blank"><img src="https://img.shields.io/twitter/follow/jibinvictorjohn?logo=twitter&style=for-the-badge" alt="jibinvictorjohn" /></a></p>
+<p align="left"> <a href="https://twitter.com/jibinvictorjohn" target="blank"><img src="https://img.shields.io/badge/follow-%40jibinvictorjohn-1DA1F2?logo=twitter&style=for-the-badge" alt="jibinvictorjohn" /></a></p>
 
 
 <!--
