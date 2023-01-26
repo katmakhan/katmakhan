@@ -143,6 +143,9 @@
      alt="Render" 
      width="100" height="40"/>
      &nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/5969/5969044.png" 
+     alt="Cloudflare" 
+     width="40" height="40"/>
 <!-- <img  src="https://image.pitchbook.com/hG77CP8UhJjUMH6f59hnUSo3p2V1608196200048_200x200" alt="Vercel" href="https://www.javascript.com/"  width="60" height="60"/>&nbsp;
  -->
 ## Free courses available in the repositories
