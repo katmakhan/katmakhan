@@ -225,7 +225,7 @@
 ## My Contribution Graph
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-   <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=katmakhan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=katmakhan&theme=github-compact&hide_border=true&hide_title=true&area=true" /></a>
 
 ## Now Listening To
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3123hs4dn7qcb3w7mdqfh2wvunje&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=3123hs4dn7qcb3w7mdqfh2wvunje&redirect=true)
