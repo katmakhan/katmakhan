@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=katmakhan&color=green)
-## Who Am I? Not Jackie Chan, Thats who
+## Get to know me
 - 💫 Some might call me jack of all trades
-- 👋 I’m <a href=https://www.instagram.com/hi_functioning_sociopath/>JIbin Victor John</a> an app developer
+- 👋 I’m <a href=https://www.instagram.com/hi_functioning_sociopath/>JIbin Victor John</a> an full stack developer
 - 👣 From Palakkad, Kerala, India
 - 🗣️ Trying to make everyone literate about programming
 - 🤹‍♂️ Hoping to make this world a better place for tomorrow
@@ -132,7 +132,7 @@
      alt="GCloud" 
      width="40" height="40"/>
      &nbsp;
-<img  src="https://i0.wp.com/sybyl.com/wp-content/uploads/2019/11/Oracle-Logo-For-Website.png" 
+<img  src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" 
      alt="Oracle"
      width="50" height="45"/>&nbsp;
 <img  src="https://flaviocopes.com/images/netlify/netlify-logo.png" 
@@ -185,7 +185,9 @@
 <a href="https://github.com/katmakhan/options_and_python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=options_and_python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>
-
+<!-- <a href="https://github.com/katmakhan/streamlit-quiztube">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=streamlit-quiztube&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+</a> -->
 
 ## Follow me @
 
