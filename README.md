@@ -20,7 +20,7 @@
 ## Github Statistics
 <p float="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katmakhan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-   <img src = "https://github-readme-streak-stats.herokuapp.com?user=katmakhan&theme=dark&hide_border=true" width = 400>
+   <img src = "https://streak-stats.demolab.com/?user=katmakhan&theme=dark&hide_border=true" width = 400>
 </p>
 
 ## Github Trophies
