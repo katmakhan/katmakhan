@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=katmakhan&color=green)
 ## Get to know me
 - 💫 Some might call me jack of all trades
-- 👋 I’m <a href=https://www.instagram.com/hi_functioning_sociopath/>JIbin Victor John</a> an full stack developer
+- 👋 I’m <a href=https://www.instagram.com/hi_functioning_sociopath/>JIbin Victor John</a> a full stack developer
 - 👣 From Palakkad, Kerala, India
 - 🗣️ Trying to make everyone literate about programming
 - 🤹‍♂️ Hoping to make this world a better place for tomorrow
