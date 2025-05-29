@@ -16,12 +16,21 @@
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katmakhan&layout=compact&theme=dark&hide_border=true)
 -->
-
 ## Github Statistics
 <p float="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katmakhan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
    <img src = "https://streak-stats.demolab.com/?user=katmakhan&theme=dark&hide_border=true" width = 400>
 </p>
+
+## Open Source Projects - OptionXi
+
+<a href="https://github.com/optionxi/optionxi-flutter-community">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=optionxi&repo=optionxi-flutter-community&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+</a>
+
+<a href="https://github.com/optionxi/optionxi-webapp-community">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=optionxi&repo=optionxi-webapp-community&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+</a>
 
 ## Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=katmakhan&column=4)](https://github.com/katmakhan/github-profile-trophy)
@@ -148,6 +157,7 @@
      width="40" height="40"/>
 <!-- <img  src="https://image.pitchbook.com/hG77CP8UhJjUMH6f59hnUSo3p2V1608196200048_200x200" alt="Vercel" href="https://www.javascript.com/"  width="60" height="60"/>&nbsp;
  -->
+
 ## Free courses available in the repositories
 
 <a href="https://github.com/katmakhan/python-course">
@@ -219,9 +229,6 @@
   <a href="https://stackoverflow.com/users/12313321">
      <img src="https://img.icons8.com/color/96/000000/stackoverflow.png" 
           alt="stackoverflow"  width="50" height="50"/></a>
-  <a href="https://btechtraders.com">
-     <img src="https://img.icons8.com/fluent/96/000000/domain.png" 
-          alt="darkwood"  width="50" height="50"/></a>
 </p>
 
 ## My Contribution Graph
@@ -230,7 +237,7 @@
    <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=katmakhan&theme=github-compact&hide_border=true&hide_title=true&area=true" /></a>
 
 ## Now Listening To
-[[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3123hs4dn7qcb3w7mdqfh2wvunje&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=3123hs4dn7qcb3w7mdqfh2wvunje&redirect=true)](https://open.spotify.com/user/3123hs4dn7qcb3w7mdqfh2wvunje)
+[![Spotify](https://novatorem-alpha-flame.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/pyupa)
 
 ## Third Party Services I Use
 <img src="https://icon-library.com/images/google-keep-icon-png/google-keep-icon-png-9.jpg" 
@@ -239,13 +246,11 @@
      alt="Google Sheets" width="40" height="40"/>&nbsp;
 <img  src="https://cdn.iconscout.com/icon/free/png-256/google-docs-2038784-1721674.png" 
      alt="Google Docs" width="40" height="40"/>&nbsp;
-<img  src="https://softcrack.org/wp-content/uploads/2022/03/anydesk-1-e1646359381617.webp" 
-     alt="Any Desk" width="40" height="40"/>&nbsp;
-<img  src="https://captioning.telestream.net/wp-content/uploads/2016/12/OBS-Logo.png" 
+<img  src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg" 
      alt="Obs Studio" width="40" height="40"/>&nbsp;
 <img  src="https://www.zohocorp.com/zoho.png" 
      alt="Zoho" width="140" height="40"/>&nbsp;
-<img src="https://cdn.iconscout.com/icon/free/png-256/godaddy-282515.png" 
-     alt="Godaddy" width="40" height="40"/>&nbsp;
-<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1403406467/d6hkzmtpjym1mvckrhxk.png" 
-     alt="Hostinger" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/GoDaddy_logo.svg" 
+     alt="Godaddy" width="140" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Hostinger_Logotype.png" 
+     alt="Hostinger" width="50" height="40"/>
