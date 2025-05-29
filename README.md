@@ -230,7 +230,7 @@
    <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=katmakhan&theme=github-compact&hide_border=true&hide_title=true&area=true" /></a>
 
 ## Now Listening To
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3123hs4dn7qcb3w7mdqfh2wvunje&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=3123hs4dn7qcb3w7mdqfh2wvunje&redirect=true)
+[[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3123hs4dn7qcb3w7mdqfh2wvunje&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=3123hs4dn7qcb3w7mdqfh2wvunje&redirect=true)](https://open.spotify.com/user/3123hs4dn7qcb3w7mdqfh2wvunje)
 
 ## Third Party Services I Use
 <img src="https://icon-library.com/images/google-keep-icon-png/google-keep-icon-png-9.jpg" 
