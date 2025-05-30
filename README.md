@@ -1,13 +1,15 @@
-![Profile Views](https://komarev.com/ghpvc/?username=katmakhan&color=green)
-## Get to know me
-- 💫 Some might call me jack of all trades
-- 👋 I’m <a href=https://www.instagram.com/hi_functioning_sociopath/>JIbin Victor John</a> a full stack developer
-- 👣 From Palakkad, Kerala, India
-- 🗣️ Trying to make everyone literate about programming
-- 🤹‍♂️ Hoping to make this world a better place for tomorrow
-- 🧛 Might turn out to be a High Functioning Sociopath
+# Hi there, I'm Jibin Victor John 👋
 
-<p align="left"> <a href="https://twitter.com/jibinvictorjohn" target="blank"><img src="https://img.shields.io/badge/follow-%40jibinvictorjohn-1DA1F2?logo=twitter&style=for-the-badge" alt="jibinvictorjohn" /></a></p>
+[![Profile Views](https://komarev.com/ghpvc/?username=katmakhan&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/katmakhan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jibinvictorjohn?style=social)](https://twitter.com/jibinvictorjohn)
+
+## 🚀 About Me
+
+- 💻 Full Stack Developer from Palakkad, Kerala, India
+- 🌱 Lifelong learner & tech enthusiast
+- 🎨 Creative coder with design skills
+- 📚 Passionate about tech education
+- 🧠 High Functioning Sociopath (self-proclaimed)
 
 
 <!--
@@ -22,7 +24,10 @@
    <img src = "https://streak-stats.demolab.com/?user=katmakhan&theme=dark&hide_border=true" width = 400>
 </p>
 
-## Open Source Virtual Trading Platform - OptionXi
+## Open Source Virtual Trading Platform [![Website](https://img.shields.io/badge/Visit_Website-optionxi.com-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=white)](https://app.optionxi.com)
+
+![Build Scan](https://github.com/optionxi/optionxi-flutter-community/actions/workflows/flutter-build.yml/badge.svg)
+[![Build](https://github.com/optionxi/optionxi-webapp-community/actions/workflows/build.yml/badge.svg)](https://github.com/optionxi/optionxi-web/actions/workflows/build.yml)
 
 <a href="https://github.com/optionxi/optionxi-flutter-community">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=optionxi&repo=optionxi-flutter-community&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
@@ -32,8 +37,23 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=optionxi&repo=optionxi-webapp-community&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>
 
+---
+
+### 🌟 Web and Flutter Preview
+
+| [Web App](https://app.optionxi.com) | [Mobile App](https://github.com/optionxi/optionxi-flutter-community) |
+|:-----------------------------------:|:-----------------------------------:|
+| <a href="https://app.optionxi.com"><img src="https://github.com/optionxi/optionxi-webapp-community/raw/master/screenshots/webapp-optionxi.png" width="300"></a> | <a href="https://github.com/optionxi/optionxi-flutter-community"><img src="https://github.com/optionxi/optionxi-flutter-community/raw/master/screenshots/Featue%20Image.png" width="300"></a> |
+
+<!-- Play Store Button -->
+<a href="https://play.google.com/store/apps/details?id=com.optionxi.app">
+  <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="80"/>
+</a>
+
+---
+
 ## Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=katmakhan&column=4)](https://github.com/katmakhan/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=katmakhan&column=5)](https://github.com/katmakhan/github-profile-trophy)
 
 <!--
 ## 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
@@ -157,6 +177,22 @@
      width="40" height="40"/>
 <!-- <img  src="https://image.pitchbook.com/hG77CP8UhJjUMH6f59hnUSo3p2V1608196200048_200x200" alt="Vercel" href="https://www.javascript.com/"  width="60" height="60"/>&nbsp;
  -->
+## Third Party Services I Use
+<img src="https://icon-library.com/images/google-keep-icon-png/google-keep-icon-png-9.jpg" 
+     alt="Google Keep" width="40" height="40"/>&nbsp;
+<img  src="https://icon-library.com/images/google-sheets-icon/google-sheets-icon-12.jpg" 
+     alt="Google Sheets" width="40" height="40"/>&nbsp;
+<img  src="https://cdn.iconscout.com/icon/free/png-256/google-docs-2038784-1721674.png" 
+     alt="Google Docs" width="40" height="40"/>&nbsp;
+<img  src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg" 
+     alt="Obs Studio" width="40" height="40"/>&nbsp;
+<img  src="https://www.zohocorp.com/zoho.png" 
+     alt="Zoho" width="140" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/GoDaddy_logo.svg" 
+     alt="Godaddy" width="140" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Hostinger_Logotype.png" 
+     alt="Hostinger" width="50" height="40"/>
+
 
 ## Free courses available in the repositories
 
@@ -184,6 +220,15 @@
 <a href="https://github.com/katmakhan/heroku-course">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=heroku-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>
+
+## My Contribution Graph
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+   <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=katmakhan&theme=github-compact&hide_border=true&hide_title=true&area=true" /></a>
+
+## Now Listening To
+[![Spotify](https://novatorem-alpha-flame.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3123hs4dn7qcb3w7mdqfh2wvunje)
+
 
 ## Follow me @
 
@@ -217,26 +262,3 @@
           alt="stackoverflow"  width="50" height="50"/></a>
 </p>
 
-## My Contribution Graph
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-   <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=katmakhan&theme=github-compact&hide_border=true&hide_title=true&area=true" /></a>
-
-## Now Listening To
-[![Spotify](https://novatorem-alpha-flame.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/pyupa)
-
-## Third Party Services I Use
-<img src="https://icon-library.com/images/google-keep-icon-png/google-keep-icon-png-9.jpg" 
-     alt="Google Keep" width="40" height="40"/>&nbsp;
-<img  src="https://icon-library.com/images/google-sheets-icon/google-sheets-icon-12.jpg" 
-     alt="Google Sheets" width="40" height="40"/>&nbsp;
-<img  src="https://cdn.iconscout.com/icon/free/png-256/google-docs-2038784-1721674.png" 
-     alt="Google Docs" width="40" height="40"/>&nbsp;
-<img  src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg" 
-     alt="Obs Studio" width="40" height="40"/>&nbsp;
-<img  src="https://www.zohocorp.com/zoho.png" 
-     alt="Zoho" width="140" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/GoDaddy_logo.svg" 
-     alt="Godaddy" width="140" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Hostinger_Logotype.png" 
-     alt="Hostinger" width="50" height="40"/>
