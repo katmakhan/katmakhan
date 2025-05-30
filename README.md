@@ -43,7 +43,7 @@
 
 | [Web App](https://app.optionxi.com) | [Mobile App](https://github.com/optionxi/optionxi-flutter-community) |
 |:-----------------------------------:|:-----------------------------------:|
-| <a href="https://app.optionxi.com"><img src="https://github.com/optionxi/optionxi-webapp-community/raw/master/screenshots/webapp-optionxi.png" width="300"></a> | <a href="https://github.com/optionxi/optionxi-flutter-community"><img src="https://github.com/optionxi/optionxi-flutter-community/raw/master/screenshots/Featue%20Image.png" width="300"></a> |
+| <a href="https://app.optionxi.com"><img src="https://github.com/optionxi/optionxi-webapp-community/raw/master/screenshots/webapp-optionxi.png" width="400"></a> | <a href="https://play.google.com/store/apps/details?id=com.optionxi.app"><img src="https://github.com/optionxi/optionxi-flutter-community/raw/master/screenshots/Featue%20Image.png" width="400"></a> |
 
 <!-- Play Store Button -->
 <a href="https://play.google.com/store/apps/details?id=com.optionxi.app">
