@@ -24,6 +24,8 @@
    <img src = "https://streak-stats.demolab.com/?user=katmakhan&theme=dark&hide_border=true" width = 400>
 </p>
 
+[![Katmakhan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=katmakhan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/katmakhan/github-readme-stats#gh-dark-mode-only)
+
 ## Open Source Virtual Trading Platform [![Website](https://img.shields.io/badge/Visit_Website-optionxi.com-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=white)](https://app.optionxi.com)
 
 ![Build Scan](https://github.com/optionxi/optionxi-flutter-community/actions/workflows/flutter-build.yml/badge.svg)
@@ -53,7 +55,7 @@
 ---
 
 ## Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=katmakhan&column=5)](https://github.com/katmakhan/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=katmakhan&rank=-?&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 ## 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
