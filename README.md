@@ -4,6 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jibinvictorjohn?style=social)](https://twitter.com/jibinvictorjohn)
 
 ## 🚀 About Me
+🛠️ Jack of all traders — master of none (but often better than master of one)
 
 - 💻 Full Stack Developer from Palakkad, Kerala, India
 - 🌱 Lifelong learner & tech enthusiast
@@ -25,6 +26,8 @@
 </p>
 
 [![Katmakhan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=katmakhan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/katmakhan/github-readme-stats#gh-dark-mode-only)
+
+---
 
 ## Open Source Virtual Trading Platform [![Website](https://img.shields.io/badge/Visit_Website-optionxi.com-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=white)](https://app.optionxi.com)
 
