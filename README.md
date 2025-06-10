@@ -12,6 +12,7 @@
 - 📚 Passionate about tech education
 - 🧠 High Functioning Sociopath (self-proclaimed)
 
+Please tell them, tell them I love what I do and I'm really good at it. and that I'm doing something big and beautiful and greater than me.
 
 <!--
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=katmakhan&show_icons=true&hide_border=true&theme=dark)
