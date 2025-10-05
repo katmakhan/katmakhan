@@ -35,6 +35,8 @@ Please tell them, tell them I love what I do and I'm really good at it. and that
 ![Build Scan](https://github.com/optionxi/optionxi-flutter-community/actions/workflows/flutter-build.yml/badge.svg)
 [![Build](https://github.com/optionxi/optionxi-webapp-community/actions/workflows/build.yml/badge.svg)](https://github.com/optionxi/optionxi-web/actions/workflows/build.yml)
 
+<a href="https://www.producthunt.com/products/optionxi?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-optionxi&#0045;open&#0045;source&#0045;trading&#0045;platform" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1016349&theme=light&t=1759650435293" alt="OptionXi&#0032;&#0045;&#0032;Open&#0032;Source&#0032;Trading&#0032;Platform - India’s&#0032;First&#0032;Open&#0032;Source&#0032;Trading&#0032;Platform | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 <a href="https://github.com/optionxi/optionxi-flutter-community">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=optionxi&repo=optionxi-flutter-community&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>
@@ -184,9 +186,9 @@ Please tell them, tell them I love what I do and I'm really good at it. and that
 <!-- <img  src="https://image.pitchbook.com/hG77CP8UhJjUMH6f59hnUSo3p2V1608196200048_200x200" alt="Vercel" href="https://www.javascript.com/"  width="60" height="60"/>&nbsp;
  -->
 ## Third Party Services I Use
-<img src="https://icon-library.com/images/google-keep-icon-png/google-keep-icon-png-9.jpg" 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Google_Keep_2020_Logo.svg" 
      alt="Google Keep" width="40" height="40"/>&nbsp;
-<img  src="https://icon-library.com/images/google-sheets-icon/google-sheets-icon-12.jpg" 
+<img  src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg" 
      alt="Google Sheets" width="40" height="40"/>&nbsp;
 <img  src="https://cdn.iconscout.com/icon/free/png-256/google-docs-2038784-1721674.png" 
      alt="Google Docs" width="40" height="40"/>&nbsp;
