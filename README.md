@@ -22,11 +22,11 @@ Please tell them, tell them I love what I do and I'm really good at it. and that
 -->
 ## Github Statistics
 <p float="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katmakhan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=katmakhan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
    <img src = "https://streak-stats.demolab.com/?user=katmakhan&theme=dark&hide_border=true" width = 400>
 </p>
 
-[![Katmakhan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=katmakhan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/katmakhan/github-readme-stats#gh-dark-mode-only)
+[![Katmakhan's GitHub stats-Dark](https://github-stats-extended.vercel.app/api?username=katmakhan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/katmakhan/github-readme-stats#gh-dark-mode-only)
 
 ---
 
@@ -40,11 +40,11 @@ Please tell them, tell them I love what I do and I'm really good at it. and that
 
 
 <a href="https://github.com/optionxi/optionxi-flutter-community">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=optionxi&repo=optionxi-flutter-community&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=optionxi&repo=optionxi-flutter-community&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>
 
 <a href="https://github.com/optionxi/optionxi-webapp-community">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=optionxi&repo=optionxi-webapp-community&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=optionxi&repo=optionxi-webapp-community&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>
 
 ---
