@@ -63,7 +63,7 @@ Please tell them, tell them I love what I do and I'm really good at it. and that
 ---
 
 ## Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=katmakhan&rank=-?&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=katmakhan&rank=-?&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 ## 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
@@ -207,28 +207,28 @@ Please tell them, tell them I love what I do and I'm really good at it. and that
 ## Free courses available in the repositories
 
 <a href="https://github.com/katmakhan/python-course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=python-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=katmakhan&repo=python-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>
 
 
 <a href="https://github.com/katmakhan/firebase-course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=firebase-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=katmakhan&repo=firebase-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>   
 
 <a href="https://github.com/katmakhan/android-course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=android-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"width="400"  />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=katmakhan&repo=android-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"width="400"  />
 </a>   
 
 <a href="https://github.com/katmakhan/flutter-course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=flutter-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=katmakhan&repo=flutter-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a> 
 
 <a href="https://github.com/katmakhan/googlesheet-course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=googlesheet-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=katmakhan&repo=googlesheet-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>
 
 <a href="https://github.com/katmakhan/heroku-course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katmakhan&repo=heroku-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=katmakhan&repo=heroku-course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>
 
 ## My Contribution Graph
